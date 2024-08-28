@@ -1,0 +1,1 @@
+# device_tecno_kh7n-kernel
